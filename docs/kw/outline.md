@@ -13,13 +13,13 @@ This style guide provides instruction for translating to the [Your locale name] 
 > Who is the target user for this project and what is their background?
 >
 > Describe briefly the users from your locale. If the type of user from one project to another will vary, indicate so here.
-
+>
 > How would a target user for this project expect to interact with this project?
 >
 > Describe the type of interaction users from your locale expect. Interactions could range from authoritative and formal to friendly and casual. Indicate what kind of tone is preferred in your locale.
 >
 > Describe the features that create the right tone. For example, Spanish has multiple forms of the second person pronoun `you`. Generally, `tu` is considered informal and personal and `usted` is considered formal and impersonal. Mozilla’s Photon guidelines prefer an informal and personal interaction; however, if the culture of your locale prefers a formal interaction, that should be declared in your community style guide.
-
+>
 > Is formal language or informal language appropriate for all of your language’s Mozilla l10n projects, or only some of them? Which ones?
 >
 > If the tone varies from project to project, indicate what tone is best for which projects.
@@ -29,7 +29,7 @@ This style guide provides instruction for translating to the [Your locale name] 
 > What kind of expression sounds natural in your locale?
 >
 > Describe the features of a natural sounding localization.
-
+>
 > Does your locale allow for many borrowed words and phrases or few?
 >
 > List any important specific cases or include a link to any relevant resources. For example, the Spanish phrase, `En ocho días` could be translated as `in eight days`. However, a natural expression in English would be `in seven days` or even `in a week`. All three are correct translations, but the last two are more natural in English.
@@ -44,7 +44,7 @@ This style guide provides instruction for translating to the [Your locale name] 
 >
 > 1. Find an equivalent reference phrase in your language.
 > 2. Remove the cultural reference and translate the core meaning (e.g., `a commencement meeting`)
-
+>
 > Are there resources for cultural references, idioms, and slang in your language?
 >
 > List resources you can use to find cultural equivalents (e.g., a slang dictionary in your language).
@@ -158,11 +158,11 @@ Read about copy rules styles in the [General Mozilla L10n Style Guide](../mozill
 > Is there an international/national standard for capitalization in your language?
 >
 > Indicate whether your language uses title case, sentence case, all caps, or some other capitalization structure. If the style changes for different textual elements such as titles of movies, books, brand names, or userface elements (`Save`, `File`, etc.).
-
+>
 > Is the capitalization standard appropriate for all of your language's Mozilla l10n projects or only some of them? Which ones?
 >
 > If copy rules in your language change from project to project, list the copy rules for each project.
-
+>
 > Is the capitalization standard appropriate for all user interface elements in your language or only some of them? Which ones?
 >
 > Are there other typographical conventions regarding quotes, quotation marks, apostrophes, use of bold or italic text, all caps text, etc.
